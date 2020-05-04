@@ -13,7 +13,7 @@
 
 ## 📖 Sobre
 
-Desafio sobre fundamentos do node.js utilizando uma arquitetura **Data Mapper Patern** focado nos princípios do **SOLID** e **DDD**, onde é separado as responsabilidades da aplicação entre os arquivos de rotas, services e repositories
+Desafio sobre fundamentos do node.js utilizando uma arquitetura **Data Mapper Patern** focado nos princípios do **SOLID** e **DDD**, onde é separado as responsabilidades da aplicação entre os arquivos de rotas, services e repositories. A aplicação realizada tem como objetivo poder armazenar transações financeiras de entrada e saída, que deve permitir o cadastro e a listagem dessas transações
 
 
 
